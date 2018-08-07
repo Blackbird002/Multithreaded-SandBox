@@ -1,7 +1,7 @@
 /*
 Riad Shash (Ray)
 Bubble Sort C++ implementation
-This is some new stuff!!!
+This is some cool stuff!!!
 */
 
 #include <iostream>
